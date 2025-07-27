@@ -15,6 +15,8 @@ My background as an Air Force Officer instilled in me a systematic approach to p
 - Creating seamless integrations between traditional software and LLMs
 - Exploring RAG systems and advanced prompt engineering techniques
 - Architecting scalable solutions for complex data challenges
+- Experimenting with AI-assisted development to implement faster, more reliably, and more efficiently
+- Practicing "vibe coding" - finding the optimal flow between human creativity and AI assistance
 
 ## 💡 Engineering Philosophy
 
