@@ -36,6 +36,14 @@ Currently deepening my expertise in AI agent architectures, distributed systems,
 
 I enjoy discussing software architecture, AI applications, and the future of technology. Feel free to reach out for collaboration or technical discussions.
 
+### 📫 Contact Information
+
+- **Website**: [alexzerntev.github.io](https://alexzerntev.github.io)
+- **Email**: alexzerntev@gmail.com
+- **LinkedIn**: [alex-zerntev](https://www.linkedin.com/in/alex-zerntev-839415127)
+- **X (Twitter)**: [@alexzerntev](https://x.com/alexzerntev)
+- **Medium**: [@alexzerntev](https://medium.com/@alexzerntev)
+
 ---
 
 *"There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."* - Bruce Lee
