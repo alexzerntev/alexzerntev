@@ -42,7 +42,7 @@ I enjoy discussing software architecture, AI applications, and the future of tec
 
 - **Website**: [alexzerntev.github.io](https://alexzerntev.github.io)
 - **Email**: alexzerntev@gmail.com
-- **LinkedIn**: [alex-zerntev](https://www.linkedin.com/in/alex-zerntev-839415127)
+- **LinkedIn**: [alexzerntev](https://www.linkedin.com/in/alexzerntev)
 - **X (Twitter)**: [@alexzerntev](https://x.com/alexzerntev)
 - **Medium**: [@alexzerntev](https://medium.com/@alexzerntev)
 
