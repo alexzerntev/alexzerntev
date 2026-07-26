@@ -13,8 +13,8 @@ I work on coding agents in the development loop, AI agents in production, and th
 
 ## 🤝 Connect
 
-- [🌐 Website](https://alexzerntev.github.io/)
-- [💼 LinkedIn](https://www.linkedin.com/in/alexzerntev/)
-- [𝕏 X](https://x.com/alexzerntev)
-- [✍️ Medium](https://medium.com/@alexzerntev)
-- [✉️ Email](mailto:alexzerntev@gmail.com)
+- [Website](https://alexzerntev.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alexzerntev/)
+- [X](https://x.com/alexzerntev)
+- [Medium](https://medium.com/@alexzerntev)
+- [Email](mailto:alexzerntev@gmail.com)
