@@ -2,14 +2,17 @@
 
 I'm a Senior AI Engineer at [RAW Labs](https://raw-labs.com/) in Athens, Greece 🇬🇷
 
-I work on coding agents in the development loop, AI agents in production, and the engineering judgment in between. Most of that work is still software engineering: understanding the problem, choosing sensible boundaries, reviewing what the agent does, and making sure the result can be trusted.
+My work spans AI agents, full-stack applications, and developer tools. That includes backend systems and user interfaces, with the same attention to sensible architecture and reliable delivery.
+
+Coding agents are part of my development workflow. I also build agents for production, with the review, validation, and engineering judgment that requires.
 
 ## 🔭 Current focus
 
 - 🤖 Coding-agent workflows, constraints, review, and validation
 - 🛡️ Production agent architecture, reliability, security, and observability
+- 🧩 Full-stack applications, including backend systems and user interfaces
 - 🧰 Software architecture, developer tooling, and reliable delivery
-- ⚖️ The tradeoffs behind putting AI systems into real products
+- 🎨 UI development, usability, and the details of how software feels to use
 
 ## 🤝 Connect
 
