@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-I'm an AI Engineer at [RAW Labs](https://raw-labs.com/) in Athens, Greece 🇬🇷
+I'm a Senior AI Engineer at [RAW Labs](https://raw-labs.com/) in Athens, Greece 🇬🇷
 
 I work on coding agents in the development loop, AI agents in production, and the engineering judgment in between. Most of that work is still software engineering: understanding the problem, choosing sensible boundaries, reviewing what the agent does, and making sure the result can be trusted.
 
