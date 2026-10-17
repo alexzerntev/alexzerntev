@@ -18,6 +18,6 @@ Coding agents are part of my development workflow. I also build agents for produ
 
 - [Website](https://alexzerntev.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/alexzerntev/)
-- [X](https://x.com/alexzerntev)
+- [X](https://x.com/alexyz)
 - [Medium](https://medium.com/@alexzerntev)
 - [Email](mailto:alexzerntev@gmail.com)
